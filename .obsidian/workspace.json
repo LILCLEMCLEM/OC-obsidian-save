@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "8da104dd42adcfb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43fd55530427c817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5490247e43abffb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML & CSS/structure page web.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba99d080087991b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2f22a675eb93ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939c3386ef3d37c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b61ccea2ee94b05d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f4f56e0aeb72a53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "9541e8afb7c80924",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0922cf373db5c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6466881603fa2fe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML & CSS/structure page web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c5f1ed36036b3c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML & CSS/structure page web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e35fa93f6a961a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5093b1d881fe1482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML & CSS/structure page web.md"
+              }
+            }
+          },
+          {
+            "id": "68c57791c90cc784",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fdcfed2ad744455",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e35cd53a88be2d2",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "5490247e43abffb5",
+  "lastOpenFiles": [
+    "OpenClassroom/react.js/utils/usefull links.md",
+    "OpenClassroom/Suivi/veille technologiques.md",
+    "HTML & CSS/balises html.md",
+    "OpenClassroom/to do list.md",
+    "OpenClassroom/Suivi/Liste Projets formation.md",
+    "OpenClassroom/react.js/utils/Lancer éditeur et apps Reactjs.md",
+    "OpenClassroom/Suivi/PROJETS/Projet 02.md",
+    "HTML & CSS/structure page web.md",
+    "OpenClassroom/Suivi/PROJETS/Projet 01.md",
+    "Pasted image 20221121174437.png"
+  ]
+}

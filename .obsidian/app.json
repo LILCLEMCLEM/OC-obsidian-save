@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "showFrontmatter": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 67
+  }
+}
